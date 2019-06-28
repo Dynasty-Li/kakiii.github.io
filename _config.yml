@@ -1,10 +1,10 @@
 # Site settings
-title: KaKi Blog
-SEOTitle: KaKi的博客 | Kaki Blog
+title: KaKi's Blog
+SEOTitle: KaKi的博客 | KaKi's Blog
 header-img: img/post-bg-desk.jpg
 email: kakidoubi@gmail.com
 description: "Aquí no termina el mundo"
-keyword: "KaKi, KaKi Blog, KaKi的博客, Python, Samsung"
+keyword: "KaKi, KaKi's Blog, KaKi的博客, Python, Samsung"
 url: "http://kakiii.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kakiii/kakiii.github.io" # you code repository
@@ -105,4 +105,10 @@ friends: [
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     }
+    {
+        title: "Sayo Melu"
+        href: "https://sayo-melu.github.io/"
+
+    }
 ]
+
