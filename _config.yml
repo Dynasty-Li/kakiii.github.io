@@ -104,10 +104,9 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
-    }
-    ,{
-        title: "Sayo Melu"
-        href: "https://sayo-melu.github.io/"
+    },{
+        title: "Sayo Melu",
+        href: "https://sayo-melu.github.io"
     }
 ]
 
