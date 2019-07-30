@@ -3,7 +3,7 @@ layout:     post
 title:      Executive President's 2019 Graduation Address
 subtitle:   Growing towards the future
 date:       2019-07-24
-author:     Youmin Xi
+author:     KaKi
 header-img: img/20190726_214214.jpg
 catalog: true
 tags:
