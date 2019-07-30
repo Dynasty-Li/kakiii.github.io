@@ -14,11 +14,9 @@ tags:
 
 ## Growing towards the future
 
-
 Dear graduates, colleagues, parents and friends,
 
 On this unforgettable day, let me first offer my congratulations to this year’s XJTLU graduates. Today begins a whole new chapter in your life! My deepest thanks go to the faculty and staff, and the parents and friends who have given our graduates continued support!
-
 
 The graduation season always gives me mixed feelings. XJTLU strives to help our students transform from children to young adults, and ultimately to global citizens. Seeing all of you eagerly awaiting your future, singing the ‘111 Ren’ai Road’ and reciting the lyrics of ‘Walking from Ren’ai Road out into the World,’ I am as excited as you are, both for you and for your future.
 
@@ -72,5 +70,3 @@ The future is here. Go achieve brilliance!
 ### 参考
 
 - [Executive President's 2019 graduation address](https://www.xjtlu.edu.cn/en/news/2019/july/%E2%80%8Bprofessor-xi%E2%80%98s-speech-2019-translations-pending)
-
-

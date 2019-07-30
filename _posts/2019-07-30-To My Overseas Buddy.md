@@ -12,7 +12,6 @@ tags:
     - Overseas Buddy
 ---
 
-
 ### Hello my buddies
 
 Although I haven't got any information about you, I still love to write a letter to all of you.
@@ -38,18 +37,10 @@ My hobbies can be found in my CV I believe, so if you like playing online games,
 There are many interesting places in Suzhou, for its culture which you are unfamiliar with. If you like, I can drive you around to introduce those for you.
 I got my driving license last year, which is very early compared with my classmates.
 
-I think that's all I want to tell you guys. 
+I think that's all I want to tell you guys.
 
 The last point: if you think my name hard to pronunce (王嘉奇, Wang Jiaqi, you can read it like Wan Zhia Chi ), just call me KaKi, which you can see in every page of my blog.
 
 See you in XJTLU!!
 
 Kaki Wang
-
-
-
-### 参考
-
-- [Executive President's 2019 graduation address](https://www.xjtlu.edu.cn/en/news/2019/july/%E2%80%8Bprofessor-xi%E2%80%98s-speech-2019-translations-pending)
-
-
