@@ -2,7 +2,7 @@
 layout:     post
 title:      CSE101 Lecture 3 Possible Answers
 subtitle:   Could be wrong, just for reference.
-date:       2019-08-02
+date:       2019-09-17
 
 author:     KaKi
 header-img: img\post-bg-code.jpeg
