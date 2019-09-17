@@ -47,7 +47,7 @@ False.
 True.
 
 ### A compiler can translate a module into binary codes, but it cannot resolve those references to other modules. This occurs when …?
- 
+
 linker doesn't begin to work
 
 ### Library files are usable if linked into your program code. (True or false?)
