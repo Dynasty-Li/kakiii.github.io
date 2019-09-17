@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      CSE101 Lecture 2 Possible Answers
+title:      CSE101 Lecture 3 Possible Answers
 subtitle:   Could be wrong, just for reference.
 date:       2019-08-02
 
