@@ -5,7 +5,7 @@ subtitle:   Could be wrong, just for reference.
 date:       2019-09-17
 
 author:     KaKi
-header-img: img\post-bg-code.jpeg
+header-img: img/post-bg-code.jpeg
 catalog: true
 tags:
     - XJTLU

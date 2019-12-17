@@ -5,7 +5,7 @@ subtitle:   我们是旧时代的残党，新世界没有载我们的船
 date:       2019-12-17
 
 author:     KaKi
-header-img: img/post-bg-clearlove.png
+header-img: img/post-bg-7jiang.png
 catalog: true
 tags:
     - XJTLU
